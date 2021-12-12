@@ -1,0 +1,46 @@
+*{
+  text-align: center;
+}
+
+h1{
+  
+  margin-top: 350px;
+  color:rgb(55, 55, 255);
+}
+
+h2 {
+  margin-top: 150px;
+  color:rgb(55, 55, 255);
+}
+
+fieldset{
+  width:600px;
+  height:420px;
+  border-color:rgb(55, 55, 255);
+}
+
+div{ 
+  background-color: white;
+  text-align: left;
+  width:530px; 
+  height: 45px;
+  border:thin solid black;
+	margin:1px 670px;
+	font-family:serif;
+  font-size:1.3em;
+	padding:3px;
+  color:black;
+}
+
+form div{
+  font-family:monospace;
+}
+
+#a{
+  margin-left: 20px;
+  font-family: 굴림체;
+  font-size:0.7em;
+  color:black;
+  font-weight: bold;
+  background-color: white;
+}
